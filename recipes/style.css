@@ -46,3 +46,9 @@ body{
           margin-bottom:0.6em;
           padding-left: 1em;
         }
+        a{
+          text-decoration: none;
+        }
+        a:hover{
+          color:grey;
+        }
