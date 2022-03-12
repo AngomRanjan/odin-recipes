@@ -6,4 +6,4 @@ Each recipe pages has a main Recipe Heading followed by an Image of the finish r
 Below the Image is a "Description" Heading under which a paragraph or two about the recipe is describe.
 Then follows the "Ingredients" heading under which the ingredients are listed inside an unordered list.
 Then Steps of preparation are listed in an ordered list under the heading "Steps"
-finally the finished project is pust to GitHub
+finally the finished project is push to GitHub
