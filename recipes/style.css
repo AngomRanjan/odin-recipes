@@ -1,54 +1,66 @@
 /* style.css */
 .container {
-  position: relative;            
+  position: relative;
   max-width: 640px;
   margin: auto;
 }
 
-  .recipe-image {
-    width:100% ;
-    height: auto;
-  }
-  .foot {
-    text-align: center;
-  }
-
-body{
-  color: #222;
-  font-family: Helvetica, Georgia,"Times New Roman",serif;
+.recipe-image {
+  width: 100%;
+  height: auto;
 }
-        h1{
-          font-size: 42px;
-          letter-spacing: .02em;
-          line-height: 45px;
-          font-weight: 300;        
-        }
-        h2, .recipe-subhead {
-          font-weight: 700;
-          font-size:1.5rem;
-          line-height: 18px;
-        }
-        h3{
-          font-weight: 500;
-          font-size:36px;
-          line-height: 0.6em;
-        }
-        p, ul, ol {
-          font-size:1.15em;
-          font-weight: 200;
-          line-height: 1.4;          
-        }
-        ul,ol {
-          margin-left: 1em; 
-        }
-      
-        li {
-          margin-bottom:0.6em;
-          padding-left: 1em;
-        }
-        a{
-          text-decoration: none;
-        }
-        a:hover{
-          color:grey;
-        }
+
+.foot {
+  text-align: center;
+}
+
+body {
+  color: #222;
+  font-family: Helvetica, Georgia, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 42px;
+  letter-spacing: 0.02em;
+  line-height: 45px;
+  font-weight: 300;
+}
+
+h2,
+.recipe-subhead {
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 18px;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 0.6em;
+}
+
+p,
+ul,
+ol {
+  font-size: 1.15em;
+  font-weight: 200;
+  line-height: 1.4;
+}
+
+ul,
+ol {
+  margin-left: 1em;
+}
+
+li {
+  margin-bottom: 0.6em;
+  padding-left: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+}
